@@ -1,5 +1,5 @@
 # OrderBook
-Bid/Ask/Trade Order Book in Python
+**Bid/Ask/Trade Order Book in Python**
 
 ## What?
 
