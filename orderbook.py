@@ -3,7 +3,7 @@ import pandas as pd
 
 ## API endpoint + details
 endpoint = 'https://cloud.iexapis.com/v1/deep?token='
-key = 'sk_ebd3172b0d5a4015be8ee12490c6cc70'
+key = 'SECRET_KEY_GOES_HERE'
 symbol = '&symbols='
 stock = 'AAPL'
 
