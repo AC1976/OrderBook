@@ -10,12 +10,6 @@ stock = 'AAPL'
 ## parse it
 url = endpoint + key + symbol + stock
 
-## create the database
-conn = sqlite3.connect('orderbook.db')
-
-## create the list to store interim 
-tick_data = []
-
 ## build the orderbook
 def OrderBook(url):
     
